@@ -1,0 +1,7 @@
+C:\poc\testapplication\bin\Debug\net6.0\publish\testapplication.exe
+C:\poc\testapplication\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\poc\testapplication\bin\Debug\net6.0\publish\appsettings.json
+C:\poc\testapplication\bin\Debug\net6.0\publish\testapplication.dll
+C:\poc\testapplication\bin\Debug\net6.0\publish\testapplication.deps.json
+C:\poc\testapplication\bin\Debug\net6.0\publish\testapplication.runtimeconfig.json
+C:\poc\testapplication\bin\Debug\net6.0\publish\testapplication.pdb
